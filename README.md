@@ -6,6 +6,6 @@
 
 > Actualmente me encuentro abierto a cualquier aportación, colaboración o sugerencia sobre esta temática.
  
-[![Twitter](https://img.shields.io/twitter/follow/aleexexe?logo=twitter&logoColor=white&color=darkgreen&label=Twitter&style=for-the-badge)](https://twitter.com/@SoyAxy)
+[![Twitter](https://img.shields.io/twitter/follow/Truthz?logo=twitter&logoColor=white&color=darkgreen&label=Twitter&style=for-the-badge)](https://twitter.com/@AxyzKnxws)
 
 📫 How to reach me: jorgeepython@gmail.com
